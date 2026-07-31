@@ -1,0 +1,4 @@
+:HL["/hkag/_next/static/css/af28b422d121057f.css","style"]
+:HL["/hkag/images/events/2025-pde-ballet.webp","image"]
+:HL["/hkag/images/events/2023-lei-muk-shue.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"courses","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ZAHRbZLjXrCussbeQtN0h"}

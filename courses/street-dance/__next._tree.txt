@@ -1,0 +1,3 @@
+:HL["/hkag/_next/static/css/af28b422d121057f.css","style"]
+:HL["/hkag/images/events/2026-fanling.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"courses","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"street-dance","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"ZAHRbZLjXrCussbeQtN0h"}

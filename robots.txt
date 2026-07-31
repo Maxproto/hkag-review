@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://maxproto.github.io/hkag
+Sitemap: https://maxproto.github.io/hkag/sitemap.xml
